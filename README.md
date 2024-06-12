@@ -13,13 +13,13 @@ WIP
 (put club videos or stuff here?)
 
 ### Codebases
-This year's code for the High Stakes competition can be found here: https://github.com/9204A-B/HighStakes
+This year's code for the High Stakes competition can be found here: [github.com/9204A-B/HighStakes](https://github.com/9204A-B/HighStakes)
 
-The codebase from last year's Over Under competition can be found here: https://github.com/9204A-B/OverUnder
+The codebase from last year's Over Under competition can be found here: [github.com/9204A-B/OverUnder](https://github.com/9204A-B/OverUnder)
 
 Members can use C++, Python, or block coding in VEXcode, although C++ is preferred.
 
 ### Links and Contact
-Visit the John Cooper School official website: https://www.johncooper.org/
+Visit the John Cooper School official website: [www.johncooper.org](https://www.johncooper.org/)
 
-Contact [coollogan876](https://github.com/coollogan876) for more information and an invite to the unofficial Robotics Club Discord server.
+Contact [Logan](https://github.com/coollogan876) for more information and an invite to the unofficial Robotics Club Discord server.
