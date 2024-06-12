@@ -2,6 +2,7 @@
 ---
 ## Welcome to the official website for the John Cooper School Robotics Club.
 We principally run two teams for the VEX V5 Robotics Competitions: **9204A Dragons** and **9204B Dragons**.
+
 ---
 
 ### Getting involved
@@ -20,4 +21,5 @@ Members can use C++, Python, or block coding in VEXcode, although C++ is preferr
 
 ### Links and Contact
 Visit the John Cooper School official website: https://www.johncooper.org/
+
 Contact [coollogan876](https://github.com/coollogan876) for more information and an invite to the unofficial Robotics Club Discord server.
